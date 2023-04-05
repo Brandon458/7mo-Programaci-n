@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(255, 255, 255);
+    background:url(../Imagenes/fondo.gif)
+    no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 70px;
+    
+    
+}
+a{
+    background-color: rgb(253, 253, 253);
+    padding: 20px;
+    margin: 120px;
+    text-align: center;
+    font-size: 40px;
+    border:2px double rgb(255, 7, 7) solid;
+    display: inline;
+}
+
+.izquieda{
+    float: left;
+    display: inline;
+    
+}
+.centro{
+    
+    position:relative;
+    text-align: center;
+    color: aquamarine;
+    display: inline;
+ 
+    
+}
+.derecha{
+    
+    position:relative;
+    text-align: right;
+    color: aquamarine;
+    display: inline;
+    
+}
