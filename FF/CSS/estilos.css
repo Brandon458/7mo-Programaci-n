@@ -1,0 +1,45 @@
+body{
+    background: rgb(146, 10, 10);
+
+}
+*{
+    margin:0;
+    padding:0;
+    color: aqua;
+
+}
+h2,h3 {
+    color: black;
+}
+h1 {
+    font-size: 80px;
+}
+
+p{
+    color: chartreuse;
+}
+a{
+    color: crimson;
+}
+
+p a{
+
+    font-size: 40px;
+}
+
+.yellow{
+
+    color: yellow;
+    
+}
+
+p.yellow{
+
+    font: size 30px;
+}
+
+a[href="proyectos/Estructura.html"]{
+
+    color: green;
+    font-size: 50px;
+}

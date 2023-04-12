@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+
+}
+.salame{
+    max-width: 350px;
+    margin: auto;
+    position: fixed;
+    left: 100px;   
+}
+.over{
+    width: 200px;
+    height: 300px;
+    overflow:visible
+    
+}  

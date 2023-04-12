@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(0, 0, 0);
+    background:url(../Imagenes/fondo.gif)
+    no-repeat center center fixed;
+    background-size: cover;
+
+
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 0);
+    color:#fff;
+    font-size: 30px;
+    text-align: center;
+}
+.caja{
+    position:fixed;
+    width: 100px;
+    height: 100px;
+    top: 150px;
+    left: 150px;
+    right: 150px;
+    bottom: 150px;
+    margin-left: -50px;
+    margin-right: -50px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    border: 2px solid rgb(229, 255, 0);
+    box-shadow: 0 0 10px rgb(0, 255, 34);
+         
+
+
+
+}
